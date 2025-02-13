@@ -44,10 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCCLUCKY415&layout=compact&theme=radical" width="400px" height="200px"/>
 </div>
 
-<br>
 
-## 🐍 SSSNAKE:
-
-![Snake animation](https://github.com/MCCLUCKY415/MCCLUCKY415/blob/output/github-contribution-grid-snake.svg)
 
 
