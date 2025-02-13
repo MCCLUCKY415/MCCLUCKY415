@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Dhiren Ruthenavelu 😎
-
 <br>
 
 - 🎓 I'm Currently studying a Bachelor of Computer and Information Sciences in Application Development.
