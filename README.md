@@ -3,7 +3,7 @@
 
 - 🎓 I'm Currently studying a Bachelor of Computer and Information Sciences in Application Development.
 - 🌱 I’m currently learning SQL, Database management, C# and Cloud Development.
-- 👀 I’m interested in anything Tech, Software Development, Internet Security and AI related.
+- 👀 I’m interested in anything Tech, Software Development, CyberSecurity and AI related.
 - ⚡ Fun fact: I'm a gamer.
 <br>
 
