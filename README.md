@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Dhiren Ruthenavelu 😎
 <br>
 
-- 🎓 I'm Currently studying a Bachelor of Computer and Information Sciences in Application Development.
+- 🎓 I recently graduated with a Bachelor of Computer and Information Sciences in Application Development.
 - 🌱 I’m currently learning SQL, Database management, C# and Cloud Development.
 - 👀 I’m interested in anything Tech, Software Development, CyberSecurity and AI related.
 - ⚡ Fun fact: I'm a gamer.
