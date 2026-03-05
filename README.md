@@ -35,12 +35,14 @@
 <br>
 <br>
 
+<!--
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; gap: 40px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MCCLUCKY415&show_icons=true&theme=radical" width="400px" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCCLUCKY415&layout=compact&theme=radical" width="400px" height="200px"/>
 </div>
+-->
 
 
 
